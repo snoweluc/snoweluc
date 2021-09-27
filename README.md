@@ -6,7 +6,7 @@
 - 🎮 I'm currently working on an RPG video game about time and stuff
 - 😄 My pronouns are They/Them
 - 👨‍💻 I want to collaborate in making more Video Games!
-- 📚 I'm currently learning C# and Java
+- 📚 I'm currently learning C++ and Java
 
 ### Connect with meeee!
 <a href="https://twitter.com/snoweluc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>

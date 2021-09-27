@@ -29,11 +29,4 @@
 <br />
 <br />
 
-<details>
-  <summary> GitHub Stats</summary>
-
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=snoweluc&show_icons=true&hide_border=true" />
-
-</details>
-
 [youtube]: https://www.youtube.com/channel/UCUWx3lRfMW8WvNSXx7enc2g
